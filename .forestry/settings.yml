@@ -19,7 +19,7 @@ sections:
   - default
 - type: directory
   path: _people
-  label: People
+  label: Pruducts
   create: all
   match: "*"
   templates:
